@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(237,248, 237) ;
+    padding: 40px;
+  }
+
+h1 {
+    color: rgb(74, 111, 63);
+    font-weight: 900;
+    font-size: 10vw;
+}
+.main {
+    text-align: center;
+}
+
+button {
+    background-color: #BF9774;
+    color: white;
+    border-radius: 1cm;
+    border-color: #BF9774;
+    margin: 2%;
+}
+.letter{
+    font-size: 13vw;
+    margin: 4%;
+}
+.inputLetter{
+    height: 150px;
+    width: 80%;
+    font-size: 13vw;
+    text-align: center;
+    background-color: rgb(211, 227, 212);
+    border-color: rgb(211, 227, 212);
+}
