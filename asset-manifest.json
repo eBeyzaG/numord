@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/numord/static/css/main.09822c6e.css",
+    "main.js": "/numord/static/js/main.8ef9127f.js",
+    "index.html": "/numord/index.html",
+    "main.09822c6e.css.map": "/numord/static/css/main.09822c6e.css.map",
+    "main.8ef9127f.js.map": "/numord/static/js/main.8ef9127f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09822c6e.css",
+    "static/js/main.8ef9127f.js"
+  ]
+}
